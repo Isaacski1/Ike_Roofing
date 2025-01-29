@@ -478,7 +478,7 @@ footer {
 }
 
 .footer-links li {
-  font-size: 2rem;
+  font-size: 1.8rem;
   font-weight: var(--font-weight-normal);
   color: var(--white-color-3);
 }
